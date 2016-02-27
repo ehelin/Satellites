@@ -1,0 +1,53 @@
+﻿.body {
+    width: 800px;
+    height: 800px;
+}
+
+
+.SatelliteTable {
+    position: absolute;
+    left:0px;
+    top:0px;
+    border:solid;
+}
+.SatelliteDisplay {
+    font-size:8px;
+    width:100px;
+}
+.SatelliteCanvas {
+    /*border:solid;*/
+    position: absolute;
+    left:0px;
+    top:0px;
+    width: 600px;
+    height: 300px;
+}
+.Planet {
+    position: absolute;
+    left:340px;
+    top:290px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align:center;
+    text-anchor:middle;
+    vertical-align:central;
+    background: blue;
+    font-size:15px;
+    color: white;
+}
+.Satellite{
+    border:solid;
+    position: absolute;
+    left:435px;
+    top:380px;
+    width: 15px;
+    height: 15px;
+    border-radius: 7.5px;
+    text-align:center;
+    text-anchor:middle;
+    vertical-align:central;
+    background: yellow;
+    color: black;
+    font-size:9px;
+}
