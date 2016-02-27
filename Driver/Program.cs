@@ -11,7 +11,7 @@ namespace Driver
 
         private static void RunSatellites()
         {
-            SatelliteDemonstration sd = new SatelliteDemonstration(DriverConstants.SIGNALR_URL, 100);// DriverConstants.APPLICATION_INTERVAL);
+            SatelliteDemonstration sd = new SatelliteDemonstration(DriverConstants.SIGNALR_URL, DriverConstants.APPLICATION_INTERVAL);
             sd.Run();
         }
     }
