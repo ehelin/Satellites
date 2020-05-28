@@ -6,7 +6,7 @@ This project was created to run a simulation of satellites orbiting a planet for
 
 ## Related Projects/Items
 
-These items are also related to this satellite project. 
+These items are also related to this project. 
 
 * This blog post talks in detail about the satellite project - 
 <a href="https://erichelin.wordpress.com/2016/02/27/cloud-adventures-part-1-the-data-set/">Satellite Project Introduction</a>
