@@ -18,6 +18,6 @@ These items are also related to this satellite project.
 
 ## How To Use
 
-Download the zip file and then follow instructions on the above listed in the describing blog post <a href="https://erichelin.wordpress.com/2016/02/27/cloud-adventures-part-1-the-data-set/">Satellite Project here</a>
+Download the zip file and then follow instructions described <a href="https://erichelin.wordpress.com/2016/02/27/cloud-adventures-part-1-the-data-set/">here</a>
 
 
